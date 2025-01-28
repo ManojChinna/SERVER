@@ -1,0 +1,20 @@
+C:\Mac\Home\Downloads\EcheverryAssign5\EcheverryAssign5\bin\Debug\EcheverryAssign5.exe.config
+C:\Mac\Home\Downloads\EcheverryAssign5\EcheverryAssign5\bin\Debug\EcheverryAssign5.exe
+C:\Mac\Home\Downloads\EcheverryAssign5\EcheverryAssign5\bin\Debug\EcheverryAssign5.pdb
+C:\Mac\Home\Downloads\EcheverryAssign5\EcheverryAssign5\obj\Debug\EcheverryAssign5.csproj.AssemblyReference.cache
+C:\Mac\Home\Downloads\EcheverryAssign5\EcheverryAssign5\obj\Debug\EcheverryAssign5.Form1.resources
+C:\Mac\Home\Downloads\EcheverryAssign5\EcheverryAssign5\obj\Debug\EcheverryAssign5.Properties.Resources.resources
+C:\Mac\Home\Downloads\EcheverryAssign5\EcheverryAssign5\obj\Debug\EcheverryAssign5.csproj.GenerateResource.cache
+C:\Mac\Home\Downloads\EcheverryAssign5\EcheverryAssign5\obj\Debug\EcheverryAssign5.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Downloads\EcheverryAssign5\EcheverryAssign5\obj\Debug\EcheverryAssign5.exe
+C:\Mac\Home\Downloads\EcheverryAssign5\EcheverryAssign5\obj\Debug\EcheverryAssign5.pdb
+C:\Users\kadar\OneDrive\Desktop\c#\Assignment 5\Assignment 5_mxe69790_attempt_2024-11-03-17-13-52_EcheverryAssign5\EcheverryAssign5\EcheverryAssign5\bin\Debug\EcheverryAssign5.exe.config
+C:\Users\kadar\OneDrive\Desktop\c#\Assignment 5\Assignment 5_mxe69790_attempt_2024-11-03-17-13-52_EcheverryAssign5\EcheverryAssign5\EcheverryAssign5\bin\Debug\EcheverryAssign5.exe
+C:\Users\kadar\OneDrive\Desktop\c#\Assignment 5\Assignment 5_mxe69790_attempt_2024-11-03-17-13-52_EcheverryAssign5\EcheverryAssign5\EcheverryAssign5\bin\Debug\EcheverryAssign5.pdb
+C:\Users\kadar\OneDrive\Desktop\c#\Assignment 5\Assignment 5_mxe69790_attempt_2024-11-03-17-13-52_EcheverryAssign5\EcheverryAssign5\EcheverryAssign5\obj\Debug\EcheverryAssign5.csproj.AssemblyReference.cache
+C:\Users\kadar\OneDrive\Desktop\c#\Assignment 5\Assignment 5_mxe69790_attempt_2024-11-03-17-13-52_EcheverryAssign5\EcheverryAssign5\EcheverryAssign5\obj\Debug\EcheverryAssign5.Form1.resources
+C:\Users\kadar\OneDrive\Desktop\c#\Assignment 5\Assignment 5_mxe69790_attempt_2024-11-03-17-13-52_EcheverryAssign5\EcheverryAssign5\EcheverryAssign5\obj\Debug\EcheverryAssign5.Properties.Resources.resources
+C:\Users\kadar\OneDrive\Desktop\c#\Assignment 5\Assignment 5_mxe69790_attempt_2024-11-03-17-13-52_EcheverryAssign5\EcheverryAssign5\EcheverryAssign5\obj\Debug\EcheverryAssign5.csproj.GenerateResource.cache
+C:\Users\kadar\OneDrive\Desktop\c#\Assignment 5\Assignment 5_mxe69790_attempt_2024-11-03-17-13-52_EcheverryAssign5\EcheverryAssign5\EcheverryAssign5\obj\Debug\EcheverryAssign5.csproj.CoreCompileInputs.cache
+C:\Users\kadar\OneDrive\Desktop\c#\Assignment 5\Assignment 5_mxe69790_attempt_2024-11-03-17-13-52_EcheverryAssign5\EcheverryAssign5\EcheverryAssign5\obj\Debug\EcheverryAssign5.exe
+C:\Users\kadar\OneDrive\Desktop\c#\Assignment 5\Assignment 5_mxe69790_attempt_2024-11-03-17-13-52_EcheverryAssign5\EcheverryAssign5\EcheverryAssign5\obj\Debug\EcheverryAssign5.pdb
